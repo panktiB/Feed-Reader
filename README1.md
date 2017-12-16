@@ -1,3 +1,8 @@
+Download the files or you can clone the repository with the following commands : 
+git clone https://github.com/panktiB/Feed-Reader
+
+Once you have the files on your system, open index.html in your browser.
+
 To run the application and pass all tests, 
 1)First complete the RSS feeds suite.
 	follow the given instructions and loop over allFeeds object to test the given.
